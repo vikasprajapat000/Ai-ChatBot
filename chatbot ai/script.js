@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyBxSAp3po8uZyHOV-0i9CI-s-nuRvL1uz0'; 
+const API_KEY = 'AKPI_KEY_HERE'; // Replace with your actual API key
 
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent';
 
