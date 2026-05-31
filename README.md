@@ -1,3 +1,3 @@
 # Ai-ChatBot
 
-A simple AI ChatBot project.
+ this is my first simple AI ChatBot project.
